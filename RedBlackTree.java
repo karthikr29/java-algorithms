@@ -1,4 +1,4 @@
-package com.jwetherell.algorithms.data_structures;
+package com.karthikr.algorithms.data_structures;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
